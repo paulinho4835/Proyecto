@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.8.2">
+<file name="C:\Users\PauliPC\desktop\jenkins\gitworkspace\samplewebapp\src\example\junit\TestCalculator.java">
+<error line="0" severity="error" message="Falta el archivo package-info.java." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck"/>
+<error line="3" severity="error" message="Usar la importación con &apos;.*&apos; debería evitarse - org.junit.Assert.*." source="com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck"/>
+</file>
+<file name="C:\Users\PauliPC\desktop\jenkins\gitworkspace\samplewebapp\src\example\math\Calculator.java">
+</file>
+<file name="C:\Users\PauliPC\desktop\jenkins\gitworkspace\samplewebapp\src\example\math\package-info.java">
+</file>
+</checkstyle>
